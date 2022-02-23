@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+     <title> Portman Collection</title>
+</head>
+
+<body>
+
+  
+
+  <nav>
+    <ul id="language">
+      <li>Student Discount</li>
+      <li>Language</li>
+    </ul>
+  </nav>
+
+  <nav>
+    <ul id= "signin">
+      <li>Hi, Sign in or Register</li>
+      <li>Costumer Service</li>
+    </ul>
+  </nav>
+
+<h1>PORTMAN</h1>
+<h2>Collection</h2>
+
+  
+  </ul>
+  <img id= "lili" src="images/liliwebsite.jpg" width=450 height= 600> </img>
+  <div id="rectangle"
+  
+  <ul id= "menu">
+    <li>MEN</li>
+    <li>WOMEN</li>
+    <li>FRAGRANCES</li>
+    <li>ORIGINALS</li>
+  </ul></div>
+
+</body>
+</html>
